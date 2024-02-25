@@ -13,3 +13,19 @@
                        MADE IN KENYA😂🇰🇪
 
 
+
+***Deploy on [`HEROKU`](https://dashboard.heroku.com/new
+
+
+### Thanks To
+- [Sam Pamday](https://github.com/Sampandey001) 
+
+
+The Suhail_Md is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
+
+
+<h2 align="center">  NOTICE
+</h2>
+   
+## 
+
