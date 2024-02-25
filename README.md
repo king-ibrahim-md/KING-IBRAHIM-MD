@@ -10,7 +10,12 @@
 
                        ENJOY BOT COMMAND
 
-                         ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FSuhailTechInfo%2FSuhail-)***
+                        MADE IN KENYA😂🇰🇪 
+                         
+                         
+                         
+                         
+   ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FSuhailTechInfo%2FSuhail-)***
 
 
 ### Thanks To
