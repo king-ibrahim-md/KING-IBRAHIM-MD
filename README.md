@@ -16,6 +16,7 @@
                          
                          
    ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FSuhailTechInfo%2FSuhail-)***
+Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=25471077266&env[MONGODB_URI]&&env[OWNER_NAME]=Suhail&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Suhail+MD&env[STYLE]=1&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=ADAM&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Asia/Karachi&name=suhail-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/d6a053739580cd2fcd2a4.jpg)***
 
 
 ### Thanks To
