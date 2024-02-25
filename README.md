@@ -21,7 +21,7 @@
 - [Sam Pamday](https://github.com/Sampandey001) 
 
 
-The Suhail_Md is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
+The 𝙆𝙄𝙉𝙂 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙈𝘿 is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
 
 
 <h2 align="center">  NOTICE
