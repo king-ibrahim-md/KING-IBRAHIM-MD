@@ -12,7 +12,7 @@
 
                         MADE IN KENYA😂🇰🇪 
                          
-                         
+***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/iH5i/KING-IBRAHIM-MD/tree/main-)***                        
                          
                          
   
